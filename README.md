@@ -59,7 +59,7 @@ When the user clicks the submit button of our form all their responses are captu
 
 ![HTTP Post URL](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/http-post-url.png)
 
-By looking at the headers of our request in the Developer Tools > Network tab, we can see the request type listed as POST, and our users responses is tucked into the Form Data.
+By looking at the headers of our request in the Developer Tools > Network tab, we can see the request type listed as POST, and our user's responses are tucked into the Form Data.
 
 ![HTTP Post Headers](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/http-post-headers.png)
 
